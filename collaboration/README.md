@@ -1,7 +1,7 @@
 # Collaboration
 
 Our group is committed to fostering a respectful and supportive environment. 
-We honor each other's time and cultural differences, while providing flexible 
+We honor each other's time and cultural differences while providing flexible 
 communication channels to accommodate diverse schedules.
 
 ## Group Norms
@@ -19,6 +19,7 @@ communication channels to accommodate diverse schedules.
   and refrain from assigning blame.
 
 - If a breach of trust occurs, we will evaluate the mistakes that led to it, 
-  learn from them, and implement strategies to prevent similar issues in the future.
+  learn from them, and implement strategies to prevent similar issues in the 
+  future.
 
 - We will use discussions to explore ideas and debates to make decisions.
