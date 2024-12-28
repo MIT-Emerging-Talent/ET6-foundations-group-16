@@ -31,3 +31,4 @@ cd repo-name
 ## Maintainers and Contributors
 
 - [Clement MUGISHA](https://github.com/Bikaze)
+- [calipso](https://giti.sls.com)
