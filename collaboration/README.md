@@ -10,6 +10,3 @@ Our group is committed to fostering a respectful and supportive environment wher
 - We will provide constructive criticism while putting into consideration any unforeseen or surprising challenges and refrain from assigning blame.
 - If a breach of trust happens, we will evaluate the mistakes that led to the breach of trust, learn from them, and implement strategies to prevent similar issues in the future.
 - We will use discussions to explore ideas and debate to make decisions.
-
- 
-
