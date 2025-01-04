@@ -43,6 +43,16 @@ class TestCalculateAverage(unittest.TestCase):
         """It should return 0 if all values in the list are zero."""
         self.assertEqual(calculate_average([0, 0, 0, 0]), 0)
 
+    # Defensive tests
+    def test_invalid_input_raises_assertion_error(self):
+        """It should raise AssertionError for non-float or non-integer inputs."""
+        with self.assertRaises(AssertionError):
+            calculate_average([10, "twenty", 30])
+
+    def test_mixed_numbers(self):
+        """It should correctly average a mixture of positive, negative, and zero values."""
+        self.assertEqual(calculate_average([10, -10, 0, 20, -20]), 0)
+
 
 if __name__ == "__main__":
     unittest.main()
