@@ -60,8 +60,11 @@ environment that provides support and help to every member in need.
 
 - ### **Fahed**
 
-  <!-- - goal 1 -->
-  <!-- - goal 2 ... etc -->
+  - Deepen understanding of Python programming.
+  - Master Git and GitHub workflows for seamless team collaboration.
+  - Enhance debugging techniques to quickly identify and resolve complex issues.
+  - Practice creating structured documentation and robust tests.
+  - Improve technical communication skills for contributing effectively to team projects.
 
 - ### **Faisal**
 
@@ -70,8 +73,13 @@ environment that provides support and help to every member in need.
 
 - ### **Majd**
 
-  <!-- - goal 1 -->
-  <!-- - goal 2 ... etc -->
+  - Fully master Python and improve
+ coding skills through exercises.
+  - Debug effectively using Evan’s guides.
+  - Write clean, efficient, and maintainable Python code.
+  - Gain proficiency in using Git and GitHub.
+  - Deepen understanding of documentation and testing.
+  - Enhance communication and collaborative skills for a more effective work environment.
 
 - ### **Özgür**
 
