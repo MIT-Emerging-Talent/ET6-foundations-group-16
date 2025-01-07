@@ -10,7 +10,7 @@ def test_count_vowels_recursively():
     assert count_vowels_recursivelycount_vowels_recursively("aeiouAEIOU") == 10, "Test case 3 failed"  # type: ignore
      
     # Test case 4: Mixed string 
-    assert count_vowels_recursivelycount_vowels_recursively("hello world") == 3, "Test case 4 failed"  # type: ignore
+    assert count_vowels_recursivelycount_vowels_recursively("hello world,") == 3, "Test case 4 failed"  # type: ignore
      
     # Test case 5: Complex sentence 
     assert count_vowels_recursivelycount_vowels_recursively("The quick brown fox jumps over the lazy dog") == 11, "Test case 5 failed"  # type: ignore
