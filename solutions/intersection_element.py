@@ -1,5 +1,3 @@
-# Write Python 3 code in this online 
-
 def common_elements(list1, list2):
     # Convert both lists to sets to remove duplicates and find intersection
     set1 = set(list1)
