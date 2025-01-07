@@ -13,3 +13,4 @@ def count_vowels_recursively(string):
 input_string = "Palestinian culture is beautiful." 
 a = count_vowels_recursively(input_string) 
 print(f"Number of vowels in '{input_string}' is: {a}") 
+ 
