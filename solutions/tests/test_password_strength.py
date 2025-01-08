@@ -46,6 +46,12 @@ class TestPasswordStrength(unittest.TestCase):
         """Test that a password missing special characters returns 'Weak password'."""
         self.assertEqual(password_strength("NoSpecial123"), "Weak password")
 
+    def test_invalid_input(self):
+        """Test that a non-string input raises an AssertionError."""
+        with self.assertRaises(AssertionError) as context:
+            password_strength(12345)  # Non-string input
+        self.assertEqual(str(context.exception), "Password must be a string")
+
 
 if __name__ == "__main__":
     unittest.main()

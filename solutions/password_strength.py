@@ -23,6 +23,9 @@ def password_strength(password: str) -> str:
     - Must contain at least one digit.
     - Must contain at least one special character (e.g., @, #, $, etc.).
 
+    Raises:
+        AssertionError: If the input is not a string.
+
     Parameters:
         password: str, the password to check.
 
@@ -39,6 +42,8 @@ def password_strength(password: str) -> str:
         >>> password_strength("NoSpecial123")
         'Weak password'
     """
+
+    assert isinstance(password, str), "Password must be a string"
 
     if len(password) < 8:
         return "Weak password"
