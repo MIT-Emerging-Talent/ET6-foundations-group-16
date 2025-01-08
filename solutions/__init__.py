@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 from math import sqrt
+=======
+# ET6-foundations-group-16/ # type: ignore
+#├── solutions/
+#│   ├── __init__.py
+#│   ├── employee.py
+#│   └── tests/
+#│       └── __init__.py
+#│       └── test_employee.py
+>>>>>>> bf620b8458ca62c56767579a379738277ca33ed1
 
 # Write a function that takes a sentence and returns the longest word in that sentence
 s = "I am learning Python programming language"
