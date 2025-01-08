@@ -2,7 +2,7 @@ import unittest
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from employee import Employee
+from ..employee import Employee
 
 class TestEmployee(unittest.TestCase):
     def setUp(self):
@@ -10,8 +10,8 @@ class TestEmployee(unittest.TestCase):
         self.emp_2=Employee('Scott','Edan',90000)
  
     def test_employee_pay(self):
-        self.assertEqual(self.emp_1.pay, 50000)
-        self.assertEqual(self.emp_2.pay, 90000)
+        self.assertEqual(self.emp_1.pay,50000)
+        self.assertEqual(self.emp_2.pay,90000)
      
     def tearDown(self):
       pass
