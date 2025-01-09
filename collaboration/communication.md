@@ -27,7 +27,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 |--------|:------:|:-------:|:---------:|:--------:|:------:|:--------:|:------:|
 | Anas   | $TIME$ | $TIME$  | $TIME$    | $TIME$   | $TIME$ | $TIME$   | $TIME$ |
 | Clement| 6-8 PM | 6-8 PM  | 6-8 PM    | 6-8 PM   | 6-8 PM | 6-8 PM   | 6-8 PM |
-| Fahed  | 7-8 PM | 8-9 PM  | 7-8 PM    | 8-9 PM   | 7-9 PM | 7-9 PM   | 6-8 PM |
+| Fahed  | 6-8 PM | 8-9 PM  | 7-8 PM    | 8-9 PM   | 7-9 PM | 7-9 PM   | 6-8 PM |
 | Faisal | $TIME$ | $TIME$  | $TIME$    | $TIME$   | $TIME$ | $TIME$   | $TIME$ |
 | Majd   | $TIME$ | $TIME$  | $TIME$    | $TIME$   | $TIME$ | $TIME$   | $TIME$ |
 | Mohamed| 6-9 PM | 6-9 PM  | 6-9 PM    | 6-10 PM  | 2-9 PM | 6-9 PM   | 6-9 PM |
