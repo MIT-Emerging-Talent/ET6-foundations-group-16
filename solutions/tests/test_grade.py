@@ -1,6 +1,12 @@
 import unittest
 
-from grade import classStatistics, loadStudentData, saveData, studentAverage, viewGrades
+from ..grade import (
+    classStatistics,
+    loadStudentData,
+    saveData,
+    studentAverage,
+    viewGrades,
+)
 
 
 def test_loadStudentData():
