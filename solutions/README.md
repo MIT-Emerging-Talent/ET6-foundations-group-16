@@ -19,13 +19,19 @@ while corresponding test files are maintained in the `tests` folder.
 
 ## **Solutions Summary**
 
-| **Solution File**       | **Description**                   | **Author**|
-|--------------------------|--------------------------------------------------------------|-------------------|
-| `calc_avg.py`| Calculates the average of a list of numbers | Clement  |
-| `spiral_traverse.py` | Traverses a 2D matrix in spiral order | Fahed |
-| `euler_totient.py` | Computes Euler's totient function (ϕ(n))| Fahed |
-| `grading_system.py`| Assigning letter grade to a numeric score.  | Razan |
-| kronecker_product.py | Computes the Kronecker ⊗ product of 2 matrices | Fahed |
+| **Solution File**        | **Description**                                  | **Author**|
+|---------------------------|------------------------------------------------|--------------|
+| `kronecker_product.py`    | Computes the Kronecker ⊗ product of two matrices |Fahed|
+| `euler_totient.py`        | Computes Euler's totient function (ϕ(n))        |Fahed|
+| `spiral_traverse.py`      | Traverses a 2D matrix in spiral order           |Fahed|
+| `greatest_number.py`      | Finds the greatest number in a list             |Razan|
+| `grading_system.py`       | Assigns letter grades to numeric scores         |Razan|
+| `reverse_string.py`       | Reverses a given string                         |Mohamed|
+| `simple_calculator.py`    | basic calculator for arithmetic operations      |Mohamed|
+| `calculate_average.py`    | Calculates the average of a list of numbers     |Clement|
+| `is_palindrome.py`        | Checks if a given string is a palindrome        |Faisal|
+| `decimal_to_binary.py`    | Converts a decimal number to binary             |Anas|
+| `password_strength.py`    | Evaluates the strength of a given password      |Anas|
 
 ---
 
