@@ -7,6 +7,7 @@ Module contents:
     - celsius_to_fahrenheit: Converts a temperature from Celsius to Fahrenheit.
 """
 
+
 def celsius_to_fahrenheit(celsius):
     """Converts a temperature from Celsius to Fahrenheit.
 
@@ -25,4 +26,4 @@ def celsius_to_fahrenheit(celsius):
         >>> celsius_to_fahrenheit(-40)
         -40.0
     """
-    return (celsius * 9/5) + 32
+    return (celsius * 9 / 5) + 32
