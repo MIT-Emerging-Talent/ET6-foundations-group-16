@@ -61,19 +61,19 @@ def kronecker_product(matrix_a, matrix_b):
         AssertionError: Inputs must be 2D lists.
     """
     # Defensive checks
-    assert isinstance(matrix_a, list) and isinstance(matrix_b, list), (
-        "Inputs must be 2D lists."
-    )
+    assert isinstance(matrix_a, list) and isinstance(
+        matrix_b, list
+    ), "Inputs must be 2D lists."
     assert len(matrix_a) > 0 and len(matrix_b) > 0, "Input lists cannot be empty."
-    assert isinstance(matrix_a[0], list) and isinstance(matrix_b[0], list), (
-        "Inputs must be 2D lists."
-    )
-    assert all(len(row) == len(matrix_a[0]) for row in matrix_a), (
-        "Each row in matrix_a must have the same number of columns."
-    )
-    assert all(len(row) == len(matrix_b[0]) for row in matrix_b), (
-        "Each row in matrix_b must have the same number of columns."
-    )
+    assert isinstance(matrix_a[0], list) and isinstance(
+        matrix_b[0], list
+    ), "Inputs must be 2D lists."
+    assert all(
+        len(row) == len(matrix_a[0]) for row in matrix_a
+    ), "Each row in matrix_a must have the same number of columns."
+    assert all(
+        len(row) == len(matrix_b[0]) for row in matrix_b
+    ), "Each row in matrix_b must have the same number of columns."
 
     # Dimensions of matrix_a and matrix_b
     a_rows, a_cols = len(matrix_a), len(matrix_a[0])

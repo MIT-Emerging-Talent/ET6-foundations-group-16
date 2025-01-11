@@ -16,13 +16,14 @@ for different types of inputs:
 
 import unittest
 
+
 def is_prime(number):
     """
     Check if a number is prime.
-    
+
     Parameters:
     - number (int): The number to check.
-    
+
     Returns:
     - bool: True if the number is prime, False otherwise.
     """
@@ -32,6 +33,7 @@ def is_prime(number):
         if number % i == 0:  # If a divisor is found, it is not prime
             return False
     return True  # If it has no divisors, it is a prime number
+
 
 class TestIsPrime(unittest.TestCase):
     """Test case for the is_prime function."""
@@ -58,5 +60,6 @@ class TestIsPrime(unittest.TestCase):
         self.assertFalse(is_prime(-1))
         self.assertTrue(is_prime(97))  # A larger prime number
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     unittest.main()
