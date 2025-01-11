@@ -9,7 +9,7 @@ Author: Majd ABUALSOUD
 """
 
 import unittest
-from hexacdecimal_to_decimal import hex_to_decimal
+from ..hexcdecimal_to_decimal import hex_to_decimal
 
 
 """Test suite for the hex_to_decimal function."""
