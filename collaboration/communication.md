@@ -43,7 +43,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 - Faisal: $HOURS$
 - Majd: $HOURS$
 - Mohamed: 2 hours
-- Obey: $HOURS$
+- Obey: 2 hours
 - Özgür: $HOURS$
 - Razan: An hour
 
