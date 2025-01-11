@@ -12,6 +12,10 @@ for different types of inputs:
 - Edge cases (such as 0, 1, and negative numbers)
 - Larger prime numbers
 
+
+Author: Özgür Özbek
+Date: Tues 11 Jan 2025
+Group: ET6-foundations-group-16 (Matrix)
 """
 
 import unittest

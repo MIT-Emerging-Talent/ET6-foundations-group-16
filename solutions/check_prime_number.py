@@ -1,5 +1,10 @@
-"""This function check number for prime or not."""
+"""This function check number for prime or not.
 
+
+    Author: Özgür Özbek
+    Date: Tues 11 Jan 2025
+    Group: ET6-foundations-group-16 (Matrix)
+"""
 
 def is_prime(number):
     """
