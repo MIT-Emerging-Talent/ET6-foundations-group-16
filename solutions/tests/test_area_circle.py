@@ -1,9 +1,20 @@
 """
-Test suite for the area_of_circle function.
+Author :Majd ABUALSOUD
+Created :January 11,2025
+This test suite for the area_of_circle function
+ ensures its correctness by covering various scenarios.
+ It tests the function with positive, zero,
+ and negative radius values,
+ ensuring accurate area calculations and proper handling of edge cases.
+   Additionally, it checks the function's response to large inputs,
+   such as non-numeric values, to ensure robust error handling.
+     Each test case includes assertions to verify
+     the function's reliability across different conditions.
 """
 
 import math
 import unittest
+
 from ..area_circle import area_of_circle
 
 

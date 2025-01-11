@@ -1,5 +1,8 @@
 """
-This module provides a function to calculate the area of a circle given its radius.
+This module provides a function
+ to calculate the area of a circle given its radius.
+Author :Majd ABUALSOUD
+Created :January 11,2025
 """
 
 import math
