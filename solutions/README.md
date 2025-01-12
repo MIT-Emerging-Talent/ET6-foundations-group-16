@@ -41,6 +41,7 @@ while corresponding test files are maintained in the `tests` folder.
 | `check_prime_number.py` | Given a positive int if it is a prime number| Özgür |
 | `password_strength.py` | Checks the strength of a password| Anas |
 | `decimal_to_binary.py` | Converts decimal to its equivalent binary| Anas |
+| `longest_word.py` | Find longest word in sentences| Özgür |
 
 ---
 
