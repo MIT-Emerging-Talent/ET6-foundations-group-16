@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 This module contains a function to convert voltage to amperes using Ohm's law.
 The formula used is: I = V / R
