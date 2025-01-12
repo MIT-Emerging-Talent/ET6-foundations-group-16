@@ -13,7 +13,7 @@ Module functions:
 """
 
 
-def count_character(input_string: str, character: str):
+def count_character(input_string: str, character: str) -> int:
     """
     Counts the number of occurrences of a specific character in a string
     It will treat capital letters as different characters compared to small letters.
