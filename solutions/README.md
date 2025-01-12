@@ -25,7 +25,9 @@ while corresponding test files are maintained in the `tests` folder.
 | `spiral_traverse.py` | Traverses a 2D matrix in spiral order | Fahed |
 | `euler_totient.py` | Computes Euler's totient function (ϕ(n))| Fahed |
 | `is_prime.py` | determine whether a given number is prime. | Fahed|
+| `gcd.py` | A function to calculate the greatest common divisor (GCD)| Fahed|
 | `kronecker_product.py` | Computes the Kronecker ⊗ product of 2 matrices | Fahed|
+| `fibonacci.py` | Generates Fibonacci sequences up to n terms | Fahed |
 | `direction_to_degree.py` | Convert a cardinal direction to degree | Obay |
 | `check_odd_or_even.py` | Checks if a number is odd or even | Clement |
 | `grading_system.py`| Assigning letter grade to a numeric score.  | Razan |
@@ -43,6 +45,8 @@ while corresponding test files are maintained in the `tests` folder.
 | `password_strength.py` | Checks the strength of a password| Anas |
 | `decimal_to_binary.py` | Converts decimal to its equivalent binary| Anas |
 | `count_character.py`| counts occurrences of a character in a string| Mohamed|
+| `is_positive.py` | Determines if a given number is positive | Faisal |
+| `is_palindrome.py` | Checks string palindrome properties | Faisal |
 
 ---
 
