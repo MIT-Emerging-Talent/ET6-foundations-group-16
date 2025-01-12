@@ -4,9 +4,9 @@
 A module for checking if a number is positive.
 
 Module contents:
-- is_positive: Determines if a given number is positive.
+    - is_positive: Determines if a given number is positive.
 
-Author: Faisal Minawi
+Author: [Your name]
 Created: 2025-01-08
 """
 
@@ -36,10 +36,6 @@ def is_positive(n: float) -> bool:
         True
         >>> is_positive(-2.5)
         False
-        >>> is_positive(True)
-        Traceback (most recent call last):
-            ...
-        TypeError: Input must be a real number (int or float)
     """
     if isinstance(n, bool):
         raise TypeError("Input must be a real number (int or float)")

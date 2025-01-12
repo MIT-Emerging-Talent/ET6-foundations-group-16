@@ -31,11 +31,11 @@ ensuring clarity on priorities and reducing misunderstandings.
 
 ### 2. Achievements 🏆
 
-- Achieved a significant milestone of making
-over **300 commits in less than two weeks**.
-- Gained valuable experience in group collaboration, enhancing
-understanding of teamwork and workflow management.
-- Acquired skills in using GitHub, VS Code, and conducting code reviews.
+**Over 300 commits were achieved in under two weeks**, showcasing the team’s
+efficiency and dedication. Furthermore, **the team mastered GitHub workflows**,
+such as pull requests and code reviews, while **enhancing collaboration and**
+**teamwork skills** through the effective use of communication and task management
+tools.
 
 ---
 
@@ -87,8 +87,8 @@ available simultaneously, causing occasional delays.
 - Early misuse of the project board hindered task organization.
 - Frustrations with resolving merge conflicts and CI failures.
 - Instances of working on the wrong project or branch, resulting in delays and corrections.
-- Communication barriers, including difficulties conveying desired code
-changes due to language differences.
+- Some team members encountered communication barriers, including challenges in
+conveying desired code changes effectively due to language differences.
 - Connectivity issues limited access to essential online resources.
 
 ---
