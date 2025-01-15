@@ -24,15 +24,29 @@ while corresponding test files are maintained in the `tests` folder.
 | `calculate_average.py`| Calculates the average of a list of numbers | Clement |
 | `spiral_traverse.py` | Traverses a 2D matrix in spiral order | Fahed |
 | `euler_totient.py` | Computes Euler's totient function (ϕ(n))| Fahed |
+| `is_prime.py` | determine whether a given number is prime. | Fahed|
+| `gcd.py` | A function to calculate the greatest common divisor (GCD)| Fahed|
+| `kronecker_product.py` | Computes the Kronecker ⊗ product of 2 matrices | Fahed|
+| `fibonacci.py` | Generates Fibonacci sequences up to n terms | Fahed |
 | `direction_to_degree.py` | Convert a cardinal direction to degree | Obay |
 | `check_odd_or_even.py` | Checks if a number is odd or even | Clement |
 | `grading_system.py`| Assigning letter grade to a numeric score.  | Razan |
-| `kronecker_product.py` | Computes the Kronecker ⊗ product of 2 matrices | Fahed|
 | `feet_to_meters.py` | Converting feet to meters| Obay |
+| `area_circle.py`| Calculates the area of the circle | Majd |
+| `multiplication.py`| Calculate the multiple of two numbers | Majd|
+| `square.py`| Find the number power of two | Majd |
 | `volts_to_amperes.py` | Converting volts to amperes| Obay |
 | `miles_to_kilometers.py` | Converting miles to kilometers| Obay |
 | `greatest_number.py` | Finding greatest number in a list| Razan |
+| `common_elements.py`   | finding common elements in two lists       | Mohamed|
+| `simple_calculator.py` | performs simple operations on two integers | Mohamed|
+| `reverse_string.py`    | reverses contents of an input string       | Mohamed|
 | `check_prime_number.py` | Given a positive int if it is a prime number| Özgür |
+| `password_strength.py` | Checks the strength of a password| Anas |
+| `decimal_to_binary.py` | Converts decimal to its equivalent binary| Anas |
+| `count_character.py`| counts occurrences of a character in a string| Mohamed|
+| `is_positive.py` | Determines if a given number is positive | Faisal |
+| `is_palindrome.py` | Checks string palindrome properties | Faisal |
 | `longest_word.py` | Returns the longest word in that sentence| Özgür |
 
 ---
